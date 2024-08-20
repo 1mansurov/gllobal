@@ -108,7 +108,7 @@ const Header = () => {
         <div className='flex gap-[170px] text-center justify-center items-center  '>
           <h2 className=''>Thanks <span className='text-[#EE5626]'> for coming!</span></h2>
           <br />
-          <a href="mailto:dilshodumbarov707@gmail.com"> @dilshodumbarov707@gmail.com</a>
+          <a href="mailto:dilshodumbarov707@gmail.com">gblog@gmail.com</a>
           <br />
           <div className='flex gap-6 bg-[white] rounded-full p-2  '>
             <a href="https://x.com/">  <img src={tvtr} alt="" /></a>

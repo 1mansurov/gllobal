@@ -58,9 +58,9 @@ const Nav = () => {
         onChange={changeLanguage}
         className='p-2 border border-gray-300 rounded bg-white text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 active:bg-gray-200 transition-colors duration-150'
       >
-        <option value="uz">UZ uz</option>
-        <option value="ru">RU ru</option>
-        <option value="en">EN en</option>
+        <option value="uz">UZ</option>
+        <option value="ru">RU</option>
+        <option value="en">EN</option>
       </select>
    
     </div>

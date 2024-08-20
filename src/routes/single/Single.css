@@ -1,10 +1,10 @@
-/* Kunduzgi rejim */
+
 body.light-mode {
     background-color: #ffffff;
     color: #232222;
   }
   
-  /* Tungi rejim */
+
   body.dark-mode {
     background-color: #0c0b0b;
     color: #ffffff;

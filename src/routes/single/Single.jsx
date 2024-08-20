@@ -63,9 +63,9 @@ const toggleDarkMode = () => {
         onChange={changeLanguage}
         className='p-2 border border-gray-300 rounded bg-white text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 active:bg-gray-200 transition-colors duration-150'
       >
-        <option value="uz">UZ uz</option>
-        <option value="ru">RU ru</option>
-        <option value="en">EN en</option>
+        <option value="uz">UZ</option>
+        <option value="ru">RU</option>
+        <option value="en">EN</option>
       </select>
    
     </div>
@@ -91,13 +91,13 @@ const toggleDarkMode = () => {
             <br />
             <p className='text-[24px] w-[690px] ml-[400px]'>{t("single3")}</p>
             <br />
-            <button  class="border-dashed border-2 border-sky-500 ... rounded-full px-4 py-2 text-sky-500 hover:bg-sky-500 hover:text-white focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 ...   ml-[1200px] my-[-200px]">Back to top</button>
+            <button  class="border border-[#EE5626] p-[15px] ml-[1200px] my-[-200px]">Back to top</button>
      
     </div>
     <div className='flex gap-[170px] text-center justify-center items-center my-[200px]  '>
           <h2 className=''>Thanks <span className='text-[#EE5626]'> for coming!</span></h2>
           <br />
-          <a href="mailto:dilshodumbarov707@gmail.com"> @dilshodumbarov707@gmail.com</a>
+          <a href="mailto:dilshodumbarov707@gmail.com"> gblog@gmail.com</a>
           <br />
           <div className='flex gap-6 bg-[white] rounded-full p-2  '>
             <a href="https://x.com/">  <img src={tvtr} alt="" /></a>
